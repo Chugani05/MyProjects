@@ -14,6 +14,8 @@
 ## Projects
 
 ### Python
+  - [__Poker Game__](https://github.com/Chugani05/PokerGame.git)
+  - [__Battleship__](https://github.com/Chugani05/BattleShip.git)
   - [__Calculator__](./projects/python/calculator/calc.py)
   - [__Distance Converter__](./projects/python/distance_converter/dconverter.py)
   - [__Guess the Number__](./projects/python/guess_the_number/guessthenumber.py)
@@ -21,7 +23,6 @@
   - [__Manessweeper__](./projects/python/manesweeper/manesweeper.py)
   - [__Rock, Paper, Scissors__](./projects/python/rock_paper_scissors/rps.py)
   - [__Trivial__](./projects/python/trivial/trivial.py)
-  - [__Poker Game__](https://github.com/Chugani05/PokerGame.git)
 
 ### Web Applications
   - [__Java Spotify__](https://github.com/Chugani05/JavaSpotify.git)
