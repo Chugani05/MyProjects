@@ -14,12 +14,15 @@
 ## Projects
 
 ### Python
-  1. [__Calculator__](./projects/python/calculator/calc.py)
-  2. [__Distance Converter__](./projects/python/distance_converter/dconverter.py)
-  3. [__Guess the Number__](./projects/python/guess_the_number/guessthenumber.py)
-  4. [__Hangman__](./projects/python/hangman/hangman.py)
-  5. [__Manessweeper__](./projects/python/manesweeper/manesweeper.py)
-  6. [__Rock, Paper, Scissors__](./projects/python/rock_paper_scissors/rps.py)
-  7. [__Trivial__](./projects/python/trivial/trivial.py)
+  - [__Calculator__](./projects/python/calculator/calc.py)
+  - [__Distance Converter__](./projects/python/distance_converter/dconverter.py)
+  - [__Guess the Number__](./projects/python/guess_the_number/guessthenumber.py)
+  - [__Hangman__](./projects/python/hangman/hangman.py)
+  - [__Manessweeper__](./projects/python/manesweeper/manesweeper.py)
+  - [__Rock, Paper, Scissors__](./projects/python/rock_paper_scissors/rps.py)
+  - [__Trivial__](./projects/python/trivial/trivial.py)
+  - [__Poker Game__](https://github.com/Chugani05/PokerGame.git)
 
 ### Web Applications
+  - [__Java Spotify__](https://github.com/Chugani05/JavaSpotify.git)
+  - [__Pokemon Shop__](https://github.com/Chugani05/PokemonShop.git)
