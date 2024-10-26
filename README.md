@@ -1,4 +1,4 @@
-# Practice Projects
+# My Projects
 
 <div align=center>
   <table>
