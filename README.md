@@ -16,6 +16,9 @@
 ### Python
   - [__Poker Game__](https://github.com/Chugani05/PokerGame.git)
   - [__Battleship__](https://github.com/Chugani05/BattleShip.git)
+  - [__Check Mate__](https://github.com/Chugani05/CheckMate.git)
+  - [__Super Todo__](https://github.com/Chugani05/SuperTodo.git)
+  - [__Tribu__](https://github.com/Chugani05/Tribu.git)
   - [__Calculator__](./projects/python/calculator/calc.py)
   - [__Distance Converter__](./projects/python/distance_converter/dconverter.py)
   - [__Guess the Number__](./projects/python/guess_the_number/guessthenumber.py)
@@ -28,3 +31,4 @@
   - [__Java Spotify__](https://github.com/Chugani05/JavaSpotify.git)
   - [__Pokemon Shop__](https://github.com/Chugani05/PokemonShop.git)
   - [__League Of Legends__](https://github.com/Chugani05/LeagueOfLegends.git)
+  - [__UNO Game__](https://github.com/Chugani05/UNOgame.git)
