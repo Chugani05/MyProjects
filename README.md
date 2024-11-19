@@ -31,4 +31,6 @@
   - [__Java Spotify__](https://github.com/Chugani05/JavaSpotify.git)
   - [__Pokemon Shop__](https://github.com/Chugani05/PokemonShop.git)
   - [__League Of Legends__](https://github.com/Chugani05/LeagueOfLegends.git)
+  - [__Love Letter__](./projects/web-apps/hearts_letter/index.html)
+  - [__Hearts' Letter__](./projects/web-apps/hearts_letter/index.html)
   - [__UNO Game__](https://github.com/Chugani05/UNOgame.git)

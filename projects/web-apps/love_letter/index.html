@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="Rashi Chugani">
+        <link rel="stylesheet" href="style.css">
+        <title>love letter</title>
+    </head>
+    <body>
+        <div class="envelope" id="envelope">
+            <div class="seal">❤️</div>
+            <div class="letter">
+                <p>Here you can write everything you want to communicate to the person to whom you are sending this letter. <br><br> You can write up to three short paragraphs. <br><br> Here you can sign with your name or whatever you prefer. <span class="heart">❤️</span></p>
+            </div>
+        </div>
+
+        <script>
+            document.getElementById('envelope').addEventListener('click', function() {
+                this.classList.toggle('open');
+            });
+        </script>
+    </body>
+</html>
