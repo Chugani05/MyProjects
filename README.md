@@ -11,6 +11,13 @@
 
 <div align=justify>
 
+## Content
+- [Description](#description)
+- [Projects](#projects)
+
+## Description
+This repository gathers a variety of projects I developed to learn, practice, and experiment with different technologies. Each project covers a distinct topic, using unique tools, languages, and approaches, reflecting my growth and versatility as a developer.
+
 ## Projects
 
 ### Python
