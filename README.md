@@ -3,7 +3,7 @@
 <div align=center>
   <table>
     <tr>
-      <td><img src="./extras/laptot.gif" alt="me" width="90%"></td>
+      <td><img src="./extras/laptot.gif" alt="me" width="100%"></td>
       <td>Este es mi repositorio personal de proyectos. Aquí encontrarás una recopilación de mis trabajos y experimentos en desarrollo web.</td>
     </tr>
   </table>
